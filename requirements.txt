@@ -1,0 +1,13 @@
+opencv-python
+numpy
+dash
+plotly
+mediapipe
+IPython
+pretty_midi
+music21
+musicalbeeps
+pygame
+pynput
+winsound
+pythonosc
